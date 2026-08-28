@@ -3,6 +3,7 @@ package javaOther.bookExamples;
 
 public class CastingExample1 {
     public static void main(String[] args) {
+
         byte a = 10;
         int b = a;
 

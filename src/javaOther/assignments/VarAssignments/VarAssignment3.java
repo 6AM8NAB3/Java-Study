@@ -2,6 +2,7 @@ package javaOther.assignments.VarAssignments;
 
 public class VarAssignment3 {
     public static void main(String[] args) {
+
         long population = 5000000000L;
         System.out.println(population);
 

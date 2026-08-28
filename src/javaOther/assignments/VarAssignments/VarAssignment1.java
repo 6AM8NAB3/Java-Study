@@ -2,6 +2,7 @@ package javaOther.assignments.VarAssignments;
 
 public class VarAssignment1 {
     public static void main(String[] args) {
+
         int num1 = 8;
         int num2 = 2;
 

@@ -2,6 +2,7 @@ package javaClass.operator;
 
 public class OperationEx2 {
     public static void main(String[] args) {
+
         int gameScore = 150;
         int lastScore1 = ++gameScore;
 

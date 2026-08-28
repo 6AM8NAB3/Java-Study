@@ -2,6 +2,7 @@ package javaClass.chapter2.typeConversion;
 // 자동 형변환 2
 public class ImplicitConversion2 {
     public static void main(String[] args) {
+
         byte bNum = 10;
         int iNum = bNum;
 

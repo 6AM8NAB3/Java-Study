@@ -2,6 +2,7 @@ package javaClass.ifexample;
 
 public class SwitchCaseEx2 {
     public static void main(String[] args) {
+
         String medal = "Gold";
         String message;
 

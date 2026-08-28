@@ -2,6 +2,7 @@ package javaOther.assignments.OperationAssignments;
 
 public class OperationAssignment4 {
     public static void main(String[] args) {
+
         int a = 35;
         int b = 28;
 

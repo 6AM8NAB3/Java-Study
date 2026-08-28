@@ -2,6 +2,7 @@ package javaClass.loop;
 
 public class whileEx2 {
     public static void main(String[] args) {
+
         int i = 0;
         int total = 0;
 

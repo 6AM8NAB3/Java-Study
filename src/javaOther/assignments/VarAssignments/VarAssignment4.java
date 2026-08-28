@@ -2,6 +2,7 @@ package javaOther.assignments.VarAssignments;
 
 public class VarAssignment4 {
     public static void main(String[] args) {
+
         byte a = 10;
         short b = 200;
         //byte c = 150; byte 자료형의 크기는 1byte 즉, -128~127 까지만 담을 수 있으므로 에러가 발생함

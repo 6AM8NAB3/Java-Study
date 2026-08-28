@@ -2,6 +2,7 @@ package javaClass.ifexample;
 
 public class SwitchCaseEx1 {
     public static void main(String[] args) {
+
         int ranking = 4;
         char medalColor = 'N';
 

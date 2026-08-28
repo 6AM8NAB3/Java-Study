@@ -2,6 +2,7 @@ package javaClass.ifexample;
 
 public class SwitchCaseEx3 {
     public static void main(String[] args) {
+
         int month = 2;
 
         int day = switch (month){

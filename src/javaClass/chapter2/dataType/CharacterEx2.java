@@ -2,6 +2,7 @@ package javaClass.chapter2.dataType;
 
 public class CharacterEx2 {
     public static void main(String[] args) {
+
         int a = 65;
         int b = -65;
 

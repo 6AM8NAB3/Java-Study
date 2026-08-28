@@ -2,6 +2,7 @@ package javaOther.assignments.OperationAssignments;
 
 public class OperationAssignment6 {
     public static void main(String[] args) {
+
         int kor = 85;
         int eng = 90;
         int math = 78;
