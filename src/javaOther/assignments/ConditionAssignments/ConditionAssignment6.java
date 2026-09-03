@@ -1,6 +1,6 @@
 package javaOther.assignments.ConditionAssignments;
 
-public class ConditionAssignmentEx6 {
+public class ConditionAssignment6 {
     public static void main(String[] args) {
 
         int score = 84;

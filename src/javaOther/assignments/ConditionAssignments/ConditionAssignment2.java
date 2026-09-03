@@ -1,6 +1,6 @@
 package javaOther.assignments.ConditionAssignments;
 
-public class ConditionAssignmentEx2 {
+public class ConditionAssignment2 {
     public static void main(String[] args) {
 
         int temp = 23;

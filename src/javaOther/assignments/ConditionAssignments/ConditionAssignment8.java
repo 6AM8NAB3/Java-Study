@@ -1,6 +1,6 @@
 package javaOther.assignments.ConditionAssignments;
 
-public class ConditionAssignmentEx8 {
+public class ConditionAssignment8 {
     public static void main(String[] args) {
         int menu = 3;
 

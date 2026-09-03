@@ -1,6 +1,6 @@
 package javaOther.assignments.ConditionAssignments;
 
-public class ConditionAssignmentEx7 {
+public class ConditionAssignment7 {
     public static void main(String[] args) {
         int month = 8;
 

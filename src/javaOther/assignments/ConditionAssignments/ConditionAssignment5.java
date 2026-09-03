@@ -1,6 +1,6 @@
 package javaOther.assignments.ConditionAssignments;
 
-public class ConditionAssignmentEx5 {
+public class ConditionAssignment5 {
     public static void main(String[] args) {
 
         double rating = 8.6;

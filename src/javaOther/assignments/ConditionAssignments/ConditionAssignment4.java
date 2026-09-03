@@ -1,6 +1,6 @@
 package javaOther.assignments.ConditionAssignments;
 
-public class ConditionAssignmentEx4 {
+public class ConditionAssignment4 {
     public static void main(String[] args) {
 
         int dollar = 50, exchangeRate = 1400;

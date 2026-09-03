@@ -1,6 +1,6 @@
 package javaOther.assignments.ConditionAssignments;
 
-public class ConditionAssignmentEx3 {
+public class ConditionAssignment3 {
     public static void main(String[] args) {
 
         double distance = 8.5;
