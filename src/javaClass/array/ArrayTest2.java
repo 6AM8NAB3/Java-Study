@@ -8,8 +8,10 @@ public class ArrayTest2 {
 
         data[0] = 10.0;
         size++;
+
         data[1] = 20.0;
         size++;
+
         data[2] = 30.0;
         size++;
         System.out.println(data.length);

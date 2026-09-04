@@ -10,10 +10,8 @@ public class CharArray {
             alphabet[i] = ch++;
         }
 
-        for (int i = 0; i < alphabet.length; i++){
-            System.out.println(alphabet[i] + " " + (int)alphabet[i]);
+        for (char c : alphabet) {    // == for (int i = 0; i < alphabet.length; i++)
+            System.out.println(c + " " + (int) c);
         }
-
-        System.out.println(alphabet);
     }
 }
